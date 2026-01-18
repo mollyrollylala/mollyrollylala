@@ -5,10 +5,8 @@
 ![](https://komarev.com/ghpvc/?username=swanburial&color=403A93&style=plastic&label=^__^)
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=hi+maemae+pls+insert+a+quote+here+thanks..)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=hi+mae+pls+add+a+quote+here+idk)](https://git.io/typing-svg)
 
 **NAME** ◞ PR ╱ NS ◞ AGE
-
-GENDER ╱ SXUALITY
 
 </div>
