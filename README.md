@@ -1,5 +1,8 @@
 <div align="center">
   
+  <img src="https://64.media.tumblr.com/0bf810122ed54714a252c8314730f3e7/bf304f3cdd8ac217-7b/s1280x1920/4cdc53cbaf0c079b30ce14bd99eed6264b2e66e2.pnj" width=500>
+
+
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=hi+mae+pls+add+a+quote+here+idk)](https://git.io/typing-svg)
 <p>
   <img src="https://i.postimg.cc/02JYpDL2/Untitled2344-20260118102410.png"width=500>
@@ -52,6 +55,5 @@
   
 𓂃 **[001.](https://github.com/SwanBurial)** 　 　𓂃 <ins>002.</ins> 　 　𓂃 <ins>003.</ins>
 
-<img src="https://64.media.tumblr.com/0bf810122ed54714a252c8314730f3e7/bf304f3cdd8ac217-7b/s1280x1920/4cdc53cbaf0c079b30ce14bd99eed6264b2e66e2.pnj" width=500><img src="https://64.media.tumblr.com/0bf810122ed54714a252c8314730f3e7/bf304f3cdd8ac217-7b/s1280x1920/4cdc53cbaf0c079b30ce14bd99eed6264b2e66e2.pnj" width=500>
+<img src="https://64.media.tumblr.com/0bf810122ed54714a252c8314730f3e7/bf304f3cdd8ac217-7b/s1280x1920/4cdc53cbaf0c079b30ce14bd99eed6264b2e66e2.pnj" width=500>
 </div>
-
