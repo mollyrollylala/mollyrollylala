@@ -50,6 +50,8 @@
 
  　
   
-𓂃 **<ins>001.</ins>** 　 　𓂃 <ins>002.</ins> 　 　𓂃 <ins>003.</ins>
+𓂃 **[001.](https://github.com/SwanBurial)** 　 　𓂃 <ins>002.</ins> 　 　𓂃 <ins>003.</ins>
+
+<img src="https://64.media.tumblr.com/0bf810122ed54714a252c8314730f3e7/bf304f3cdd8ac217-7b/s1280x1920/4cdc53cbaf0c079b30ce14bd99eed6264b2e66e2.pnj" width=500><img src="https://64.media.tumblr.com/0bf810122ed54714a252c8314730f3e7/bf304f3cdd8ac217-7b/s1280x1920/4cdc53cbaf0c079b30ce14bd99eed6264b2e66e2.pnj" width=500>
 </div>
 
