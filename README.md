@@ -11,7 +11,7 @@
 
 ###  $\color{#403A93}{\textup{NAME　　𓏵　　NAME }}$
 ### ʚɞ
-### $\color{#6c213e}{\textup{PR ╱ NS 　◞ AGETEEN}}$
+### $\color{#9a938c}{\textup{PR ╱ NS 　◞ AGETEEN}}$
 
 
 <img src="https://64.media.tumblr.com/4b7d56533eda20eaea74b4734f3a01f6/136f59329199be26-cb/s400x600/8fb106ebcc5486258456d07607c1ce367bb19c51.pnj" width=500>
@@ -26,10 +26,10 @@
 
   <div align="left">
     
-- $\color{#6c213e}{\textup{TXTXTXTXTXTXTXTTXTXTXTXT}}$
+- $\color{#9a938c}{\textup{TXTXTXTXTXTXTXTTXTXTXTXT}}$
 - $\color{#403A93}{\textup{XTTXTXTXTXTXTXTXTXTXTXTXTXTXTXTTXTXTXTXTXTX}}$
 - TXTXTXTXTXTXTXTXTX
-- $\color{#6c213e}{\textup{XTXTXTTXTXTXTXTXTXTXT}}$
+- $\color{#9a938c}{\textup{XTXTXTTXTXTXTXTXTXTXT}}$
 - $\color{#403A93}{\textup{XTXTXT}}$
 </div>
 </details>
@@ -41,9 +41,9 @@
     
 - TXTXTXTXTXTXTXTTXTXTXTXT
 - $\color{#403A93}{\textup{XTTXTXTXTXTXTXTXTXTXTXTXTXTXTXTTXTXTXTXTXTX}}$
-- $\color{#6c213e}{\textup{TXTXTXTXTXTXTXTXTX}}$
+- $\color{#9a938c}{\textup{TXTXTXTXTXTXTXTXTX}}$
 - XTXTXTTXTXTXTXTXTXTXT
-- $\color{#6c213e}{\textup{XTXTXT}}$
+- $\color{#9a938c}{\textup{XTXTXT}}$
 </details>
 
 
