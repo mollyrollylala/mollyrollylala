@@ -19,8 +19,9 @@
  　
  　
 
-<img src="https://github.com/user-attachments/assets/f61699ec-9bc8-4427-916f-f92269871593" width="170">  　　<img src="https://github.com/user-attachments/assets/d0d5bd3f-7496-4d7f-97ae-829c7e9b1a32" width="153">
+<img src="https://github.com/user-attachments/assets/f61699ec-9bc8-4427-916f-f92269871593" width="150">  　　<img src="https://github.com/user-attachments/assets/d0d5bd3f-7496-4d7f-97ae-829c7e9b1a32" width="133">
 
+ 　
 <details>
   <summary>$\huge{\textsf{DNI}}$</summary> 
 
@@ -34,6 +35,7 @@
 </div>
 </details>
 
+
 <details>
   <summary>$\huge{\textsf{BYI}}$</summary> 
 
@@ -46,8 +48,8 @@
 - $\color{#9a938c}{\textup{XTXTXT}}$
 </details>
 
-
+ 　
   
-𓂃 001. 　 　𓂃002. 　 　𓂃003.
+𓂃 **<ins>001.</ins>** 　 　𓂃 <ins>002.</ins> 　 　𓂃 <ins>003.</ins>
 </div>
 
