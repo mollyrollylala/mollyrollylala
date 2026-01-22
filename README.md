@@ -17,7 +17,6 @@
 <img src="https://64.media.tumblr.com/4b7d56533eda20eaea74b4734f3a01f6/136f59329199be26-cb/s400x600/8fb106ebcc5486258456d07607c1ce367bb19c51.pnj" width=500>
 
  　
- 　
 
 <img src="https://github.com/user-attachments/assets/f61699ec-9bc8-4427-916f-f92269871593" width="150">  　　<img src="https://github.com/user-attachments/assets/d0d5bd3f-7496-4d7f-97ae-829c7e9b1a32" width="133">
 
