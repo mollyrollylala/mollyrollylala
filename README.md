@@ -13,24 +13,24 @@
 ### ʚɞ
 ### $\color{#6c213e}{\textup{PR ╱ NS 　◞ AGETEEN}}$
 
-<p>
-  <img src="https://i.postimg.cc/cC5nQzLN/IMG-6024.gif"width=200>
-</p>
 
+<img src="https://64.media.tumblr.com/4b7d56533eda20eaea74b4734f3a01f6/136f59329199be26-cb/s400x600/8fb106ebcc5486258456d07607c1ce367bb19c51.pnj" width=500>
 
+ 　
+ 　
 
+<img src="https://github.com/user-attachments/assets/f61699ec-9bc8-4427-916f-f92269871593" width="170">  　　<img src="https://github.com/user-attachments/assets/d0d5bd3f-7496-4d7f-97ae-829c7e9b1a32" width="153">
 
-  
 <details>
   <summary>$\huge{\textsf{DNI}}$</summary> 
 
   <div align="left">
     
-- TXTXTXTXTXTXTXTTXTXTXTXT
-- XTTXTXTXTXTXTXTXTXTXTXTXTXTXTXTTXTXTXTXTXTX
+- $\color{#6c213e}{\textup{TXTXTXTXTXTXTXTTXTXTXTXT}}$
+- $\color{#403A93}{\textup{XTTXTXTXTXTXTXTXTXTXTXTXTXTXTXTTXTXTXTXTXTX}}$
 - TXTXTXTXTXTXTXTXTX
-- XTXTXTTXTXTXTXTXTXTXT
-- XTXTXT
+- $\color{#6c213e}{\textup{XTXTXTTXTXTXTXTXTXTXT}}$
+- $\color{#403A93}{\textup{XTXTXT}}$
 </div>
 </details>
 
@@ -40,9 +40,14 @@
   <div align="left">
     
 - TXTXTXTXTXTXTXTTXTXTXTXT
-- XTTXTXTXTXTXTXTXTXTXTXTXTXTXTXTTXTXTXTXTXTX
-- TXTXTXTXTXTXTXTXTX
+- $\color{#403A93}{\textup{XTTXTXTXTXTXTXTXTXTXTXTXTXTXTXTTXTXTXTXTXTX}}$
+- $\color{#6c213e}{\textup{TXTXTXTXTXTXTXTXTX}}$
 - XTXTXTTXTXTXTXTXTXTXT
-- XTXTXT
+- $\color{#6c213e}{\textup{XTXTXT}}$
+</details>
+
+
+  
+𓂃 001. 　 　𓂃002. 　 　𓂃003.
 </div>
 
