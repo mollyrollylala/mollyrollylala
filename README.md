@@ -9,10 +9,9 @@
 </p>
 
 
-
-###  $\color{#403A93}{\textup{NAME　　𓏵　　NAME }}$
+###  $\color{#403A93}{\textup{゛NAME　　𓏵　　NAME゛}}$
 ### ʚɞ
-### $\color{#9a938c}{\textup{PR ╱ NS 　◞ AGETEEN}}$
+### $\color{#9a938c}{\textup{PR ╱ NS　　⋮　　AGETEEN.ᐟ}}$
 
 
 <img src="https://64.media.tumblr.com/4b7d56533eda20eaea74b4734f3a01f6/136f59329199be26-cb/s400x600/8fb106ebcc5486258456d07607c1ce367bb19c51.pnj" width=500>
@@ -24,7 +23,7 @@
 
  　
 <details>
-  <summary>$\huge{\textsf{DNI}}$</summary> 
+  <summary>$\huge{\textsf{﹒﹒𝓓NI}}$</summary> 
 
   <div align="left">
     
@@ -38,7 +37,7 @@
 
 
 <details>
-  <summary>$\huge{\textsf{BYI}}$</summary> 
+  <summary>$\huge{\textsf{﹒﹒𝓑YI}}$</summary>
 
   <div align="left">
     
